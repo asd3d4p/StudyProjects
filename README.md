@@ -1,8 +1,16 @@
 # Учебные проекты (в порядке возрастания сложности)
-1. estate_market.ipynb Учебный проект по анализу рынка недвижимости Лениградской области на основе данных Яндекс Недвижимости. Цель данного проекта - научиться обрабатывать и исследовать данные, находить зависимость изучаемой величины от различных параметров, строить графики и диаграммы с помощью библиотек Python.
+Учебные проекты (в порядке возрастания сложности)
 
-2. platform_games.ipynb Изучение рынка игр для платформ и консолей по историческим данным за 36 лет (до 2016 года). Цель данного проекта - определить от чего зависит популярность игр, научиться формулировать и проверять гипотезы (статистическая библиотека scipy), визуализировать полученные результаты с помощью средств Pandas, Matplotlib, seaborn.
+[big_project_1_game_ok.ipynb](https://github.com/asd3d4p/StudyProjects/blob/Study-project/big_project_1_game_ok.ipynb) Изучение рынка игр для платформ и консолей по историческим данным за 36 лет (до 2016 года).
 
-3. busines-metrics.ipynb Расчёт и визуализация бизнес-метрик по данным о рекламных каналах игрового приложения. Определение окупаемости маркетинга.
+[AB_project_1_ok.ipynb](https://github.com/asd3d4p/StudyProjects/blob/Study-project/AB_project_1_ok.ipynb) Анализ результатов А/В-теста с применением статистических методов, приоретизация и проверка гипотез.
 
-4. online_store_ab_test.ipynb Анализ результатов А/В-теста с применением статистических методов, приоретизация и проверка гипотез.
+[big_project_2_ok.ipynb](https://github.com/asd3d4p/StudyProjects/blob/Study-project/big_project_2_ok.ipynb) Изучение воронки продаж и проверка результатов AA/B-теста с помощью статистических методов.
+
+[project_za_ok.ipynb](https://github.com/asd3d4p/StudyProjects/blob/Study-project/project_za_ok.ipynb) Анализ точек общественного питания Москвы по реальным данным на лето 2022 года для поиска подходящих мест расположения кофейни. Визуализация данных с помощью географических координат. Презентация
+
+[project_1_ok.ipynb](https://github.com/asd3d4p/StudyProjects/blob/Study-project/project_1_ok.ipynb)  Анализ оттока клиентов банка, Презентация и дашборд.
+
+[AB_project_2_ok.ipynb](https://github.com/asd3d4p/StudyProjects/blob/Study-project/AB_project_2_ok.ipynb)  Анализ корректности проведения A/B-теста.
+
+[project_game_2_finish_ok.ipynb](https://github.com/asd3d4p/StudyProjects/blob/Study-project/project_game_2_finish_ok.ipynb) Анализ рекламных источников для разработки моделей монетезации в мобильной игре.
